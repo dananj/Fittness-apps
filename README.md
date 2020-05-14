@@ -1,16 +1,16 @@
-## Get Project
+# Get Project
 ```
-git clone https://github.com/contentful/the-example-app.nodejs.git
+git@github.com:dananj/Fittness-apps.git
 ```
 
 
 # Client
 
-## Change Directory
+### Change Directory
 ```
 cd client
 ```
-## Project setup
+### Project setup
 ```
 npm install
 ```
@@ -35,11 +35,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Server
 
-## Change Directory
+### Change Directory
 ```
 cd server
 ```
-## Project setup
+### Project setup
 ```
 npm install
 ```

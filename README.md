@@ -1,6 +1,6 @@
 # Get Project
 ```
-git@github.com:dananj/Fittness-apps.git
+git clone git@github.com:dananj/Fittness-apps.git
 ```
 
 

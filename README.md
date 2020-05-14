@@ -1,5 +1,15 @@
+## Get Project
+```
+git clone https://github.com/contentful/the-example-app.nodejs.git
+```
+
+
 # Client
 
+## Change Directory
+```
+cd client
+```
 ## Project setup
 ```
 npm install
@@ -25,8 +35,16 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Server
 
+## Change Directory
+```
+cd server
+```
 ## Project setup
 ```
 npm install
+```
+### Compiles 
+```
+nodemon server.js
 ```
 
